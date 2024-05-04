@@ -1,4 +1,4 @@
-# K23_PsychoPy_Behavioral_Tasks
+# PsychoPy for Cambridge Face Memory Test and Reading the Mind in the Eyes
 Needs PsychoPy v2022.2.3
 
 PsychoPy code and associated files to run CFMT upright, RMIE, and CFMT inverted using PsychoPy, plus WASI ppt and upload template for easy access. 
